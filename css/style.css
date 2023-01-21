@@ -26,6 +26,7 @@ Table Of Index
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:300,400,500,700');
 html, body {
 	min-height: 100%;
+	scroll-behavior: smooth;
 }
 body {
 	background: #ffffff;
@@ -178,7 +179,7 @@ a:hover, a:active, a:focus {
 	padding: 70px 0;
 	position: relative;
 }
-#counter, #service, #contact, #address {
+#counter, #servizi-legali, #contact, #address {
 	text-align: center;
 }
 /*---------------------------------------
@@ -1541,7 +1542,7 @@ ul.orderlist li:before {
    Service section              
 -----------------------------------------*/
 
-#practicearea .service-thumb, #service .service-thumb {
+#practicearea .service-thumb, #servizi-legali .service-thumb {
 	margin-bottom: 30px;
 	margin-top: 20px;
 }
@@ -1549,7 +1550,7 @@ ul.orderlist li:before {
 	color: #db3636;
 	font-size:20px;
 }
-#service .thumb-icon {
+#servizi-legali .thumb-icon {
 	border:1px solid #db3636;
 	width: 70px;
 	height: 70px;
@@ -1568,12 +1569,12 @@ ul.orderlist li:before {
 	position:relative;
 }
 .thumb-img:before{position:absolute; top:15px; right:15px; bottom:15px; left:15px; border:1px solid rgba(255,255,255,0.5); content:'';}
-#service .fa {
+#servizi-legali .fa {
 	font-size: 24px;
 	margin-top: 22px;	
 }
 
-#service .service-thumb:hover .thumb-icon, .service-thumb:hover img {
+#servizi-legali .service-thumb:hover .thumb-icon, .service-thumb:hover img {
    -moz-transform: scaleX(-1);
         -o-transform: scaleX(-1);
         -webkit-transform: scaleX(-1);
@@ -2955,10 +2956,11 @@ h1 {
 }
 .custom-navbar .nav li a {
 	padding: 0px 15px;
+	color: white;
 }
 .custom-navbar .nav li .calltxt {
 	margin-top: 0;
-	padding: 7px 15px
+	padding: 0px 15px
 }
 .is-sticky .custom-navbar .nav li .calltxt {
 	margin-top: 0;
@@ -2991,7 +2993,7 @@ h1 {
 #counter .counter-number {
 	font-size: 48px;
 }
-#service .service-thumb-first, #service .service-thumb-second {
+#servizi-legali .service-thumb-first, #servizi-legali .service-thumb-second {
 	margin-bottom: 32px;
 }
 ul.orderlist li {
@@ -3071,7 +3073,7 @@ h1 {
 .is-sticky .custom-navbar .nav li a {
 	line-height: 30px;
 }
-#service .service-thumb {
+#servizi-legali .service-thumb {
 }
 #counter .counter-number {
 	font-size: 48px;
