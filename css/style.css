@@ -96,7 +96,7 @@ img {
 	color: #ffffff;
 }
 .section-btn {
-	background: #eb9405;
+	background: #b1976b;
 	border-radius: 4px;
 	color: #ffffff;
 	font-size: 18px;
@@ -122,11 +122,11 @@ a {
 	-webkit-transition: ease-in-out 0.3s;
 	-moz-transition: ease-in-out 0.3s;
 	-ms-transition: ease-in-out 0.3s;
-	color: #eb9405;
+	color: #b1976b;
 	text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-	color: #eb9405;
+	color: #b1976b;
 	outline: none;
 }
 * {
@@ -156,7 +156,7 @@ a:hover, a:active, a:focus {
 }
 .section-title h1:after {
 	content: '';
-	background: #eb9405;
+	background: #b1976b;
 	height: 2px;
 	width: 60px;
 	position: absolute;
@@ -166,7 +166,7 @@ a:hover, a:active, a:focus {
 }
 
 .section-title h1 span {
-	color: #eb9405;
+	color: #b1976b;
 	font-weight: 400;
 	display:block;
 	font-size: 36px;
@@ -675,12 +675,12 @@ a:hover, a:active, a:focus {
 	color: #333;
 }
 .is-sticky .custom-navbar .navbar-brand {
-	color: #eb9405;
+	color: #b1976b;
 	line-height: 20px;
 }
 .is-sticky .custom-navbar .nav li .calltxt {
-	color: #eb9405;
-	border-color: #eb9405;
+	color: #b1976b;
+	border-color: #b1976b;
 	margin-top: 10px;
 }
 
@@ -703,7 +703,7 @@ img.whtlogo{display:block;}
 	background-color: transparent;
 }
 .custom-navbar .navbar-toggle .icon-bar {
-	background: #eb9405;
+	background: #b1976b;
 	border-color: transparent;
 }
 .navbar-collapse.in {
@@ -727,17 +727,17 @@ img.whtlogo{display:block;}
 
 .custom-navbar .nav li .dropdown-menu{padding:0; border-radius:0; border:none;}
 .custom-navbar .nav li .dropdown-menu li a{color:#333; line-height:20px; padding:8px 10px; font-weight:400; border-bottom:1px solid #eee;}
-.custom-navbar .nav li .dropdown-menu li a:hover{background:#eb9405; color:#fff;}
+.custom-navbar .nav li .dropdown-menu li a:hover{background:#b1976b; color:#fff;}
 
 .subpage .custom-navbar{background:#fff;}
 .subpage .custom-navbar .nav li a{color:#666;}
-.subpage .custom-navbar .navbar-brand{color:#eb9405;}
+.subpage .custom-navbar .navbar-brand{color:#b1976b;}
 .subpage .custom-navbar .nav li .calltxt{color:#666; border-left-color:#ddd;}
 
-.custom-navbar .nav li:hover>a{color:#eb9405;}
+.custom-navbar .nav li:hover>a{color:#b1976b;}
 .custom-navbar .nav li.active > a {
 	background-color: transparent;
-	color:#eb9405;
+	color:#b1976b;
 }
 
 
@@ -823,12 +823,12 @@ img.whtlogo{display:block;}
 	margin-top: 100px;
 }
 #simplecolors {
-	background-color: #eb9405;
-	background-image: -webkit-linear-gradient(bottom, #eb9405, #000);
-	background-image: -moz-linear-gradient(bottom, #eb9405, #000);
-	background-image: -o-linear-gradient(bottom, #eb9405, #000);
-	background-image: -ms-linear-gradient(bottom, #eb9405, #000);
-	background-image: linear-gradient(to top, #eb9405, #000);
+	background-color: #b1976b;
+	background-image: -webkit-linear-gradient(bottom, #b1976b, #000);
+	background-image: -moz-linear-gradient(bottom, #b1976b, #000);
+	background-image: -o-linear-gradient(bottom, #b1976b, #000);
+	background-image: -ms-linear-gradient(bottom, #b1976b, #000);
+	background-image: linear-gradient(to top, #b1976b, #000);
 	color: #fff;
 	height: 100%;
 	position: relative;
@@ -899,7 +899,7 @@ header .header-content.video-section .button.transparent:hover {
 /*Banner Form*/
 .bformBox {
 	background: #fff;
-	border-bottom: 5px solid #eb9405;
+	border-bottom: 5px solid #b1976b;
 	padding: 30px;
 	margin-top: 50px;
 }
@@ -924,7 +924,7 @@ header .header-content.video-section .button.transparent:hover {
 	height: 100px;
 }
 .bformBox .btn {
-	background: #eb9405;
+	background: #b1976b;
 	width: 100%;
 	border-radius: 0;
 	color: #fff;
@@ -968,10 +968,10 @@ background-color:#fec107;
 background-color:#c90157;
 }
  75% {
-background-color:#eb9405;
+background-color:#b1976b;
 }
  100% {
-background-color:#eb9405;
+background-color:#b1976b;
 }
 }
 
@@ -987,10 +987,10 @@ background-color:#fec107;
 background-color:#c90157;
 }
  75% {
-background-color:#eb9405;
+background-color:#b1976b;
 }
  100% {
-background-color:#eb9405;
+background-color:#b1976b;
 }
 }
 #counter .counter-number {
@@ -1349,7 +1349,7 @@ a.wit-btn {
 	color: #565656;
 }
 #about .about-desc a:hover {
-	color: #eb9405;
+	color: #b1976b;
 }
 .circleList {
 	list-style: none;
@@ -1360,7 +1360,7 @@ a.wit-btn {
 	margin-top: 10px;
 }
 .circleList li .cricle {
-	color: #eb9405;
+	color: #b1976b;
 	font-size: 36px;
 	text-align: center;
 	margin: 0 auto;
@@ -1382,7 +1382,7 @@ a.wit-btn {
 	line-height: 32px;
 }
 #about .team-wrapper strong {
-	color: #eb9405;
+	color: #b1976b;
 	font-weight: 600;
 }
 #about .team-wrapper img {
@@ -1426,7 +1426,7 @@ ul.orderlist li:before {
 	position: absolute;
 	left: 0;
 	vertical-align: middle;
-	color: #eb9405;
+	color: #b1976b;
 }
 /*********************************************
 			Services Start
@@ -1451,7 +1451,7 @@ ul.orderlist li:before {
 	margin-top: 30px;
 	text-transform: uppercase;
 	font-weight: 600;
-	background: #eb9405;
+	background: #b1976b;
 	border-radius: 4px;
 }
 .servicesbox .readmore i {
@@ -1511,7 +1511,7 @@ ul.orderlist li:before {
 }
 .howlist li .iconcircle i {
 	font-size: 24px;
-	color: #eb9405;
+	color: #b1976b;
 	margin-top: 22px;
 	display: block;
 }
@@ -1547,11 +1547,11 @@ ul.orderlist li:before {
 	margin-top: 20px;
 }
 #practicearea .service-thumb h4 {
-	color: #eb9405;
+	color: #b1976b;
 	font-size:20px;
 }
 #servizi-legali .thumb-icon {
-	border:1px solid #eb9405;
+	border:1px solid #b1976b;
 	width: 70px;
 	height: 70px;
 	border-radius:5px;
@@ -1562,7 +1562,7 @@ ul.orderlist li:before {
 	-webkit-transition: ease-in-out 0.3s;
 	-moz-transition: ease-in-out 0.3s;
 	-ms-transition: ease-in-out 0.3s;
-	color: #eb9405;
+	color: #b1976b;
 }
 .thumb-img {
 	overflow:hidden;
@@ -1581,14 +1581,14 @@ ul.orderlist li:before {
         transform: scaleX(-1);
         filter: FlipH;
         -ms-filter: "FlipH";
-	background:#eb9405;
+	background:#b1976b;
 	color:#fff;
 }
 
 
 
 #practicearea .btn{background:#444; color:#fff; padding:7px 20px; margin-top:15px;}
-#practicearea .btn:hover{background:#eb9405;}
+#practicearea .btn:hover{background:#b1976b;}
 
 
 /*---------------------------------------
@@ -1600,7 +1600,7 @@ ul.orderlist li:before {
 .testimonials li .int:after{content:''; background:url(../images/bt-arrow.png) no-repeat; width:28px; height:27px; position:absolute; bottom:-25px; right:50px;}
 .testimonials li p{font-style:italic;}
 .testimonials li .clientinfo{text-align:right; font-size:14px; margin-top:30px;}
-.testimonials li .clientinfo strong{display:block; color:#eb9405; font-size:18px;}
+.testimonials li .clientinfo strong{display:block; color:#b1976b; font-size:18px;}
 
 /*---------------------------------------
     Work section              
@@ -1704,7 +1704,7 @@ ul.orderlist li:before {
 }
 .team-thumb h4 {
 	margin: 0 0 5px 0;
-	color: #eb9405;
+	color: #b1976b;
 	font-size: 24px;
 }
 .team-thumb p {
@@ -1734,23 +1734,23 @@ ul.orderlist li:before {
 	background: #999
 }
 .social li a:hover {
-	background: #eb9405;
+	background: #b1976b;
 }
 
 .lawimg{border:1px solid #ddd; padding:10px; background:#FFF; box-shadow:0 0 15px rgba(0,0,0,0.2);}
-.attorneytop h2{color:#eb9405; font-size:30px; line-height:36px;}
+.attorneytop h2{color:#b1976b; font-size:30px; line-height:36px;}
 .attorneytop h3{margin:0 0 10px 0; font-size:18px; line-height:26px;}
 .attorneytop p{color:#555; margin-bottom:10px; font-size:14px;}
 .address li{font-size:16px; color:#333; margin-bottom:12px; display:block;}
 .address li a{color:#333;}
-.address li i{margin-right:10px; color:#eb9405}
+.address li i{margin-right:10px; color:#b1976b}
 
 .attorneydetail h1{color:#444; font-size:30px;}
-.attorneydetail h2{color:#eb9405; font-size:24px;}
+.attorneydetail h2{color:#b1976b; font-size:24px;}
 .attorneydetail p{color:#666; margin-bottom:10px; font-size:14px;}
 .atorinfo{margin-top:30px;}
 .atorinfo ul li{padding:5px 0 5px 20px; position:relative;}
-.atorinfo ul li:before{position:absolute; content:'\f061'; font-family:'FontAwesome'; left:0; color:#eb9405;}
+.atorinfo ul li:before{position:absolute; content:'\f061'; font-family:'FontAwesome'; left:0; color:#b1976b;}
 
 .attorneyContact{margin-top:30px; padding:30px; background:#f5f5f5;}
 .attorneyContact h3{color:#555; font-size:30px; line-height:36px; text-align:center; margin-bottom:15px; margin-top:0;}
@@ -1839,7 +1839,7 @@ ul.orderlist li:before {
 }
 .packageList li .price strong {
 	font-size: 48px;
-	color: #eb9405;
+	color: #b1976b;
 	display: block;
 }
 .packageList li p {
@@ -1854,7 +1854,7 @@ ul.orderlist li:before {
 	margin-top: 30px;
 }
 .packageList li .booknow a {
-	background: #eb9405;
+	background: #b1976b;
 	color: #fff;
 	text-transform: uppercase;
 	font-size: 16px;
@@ -1884,7 +1884,7 @@ ul.orderlist li:before {
 .faqs h4 a {
 	padding: 10px 55px 10px 15px;
 	display: block;
-	background: #eb9405;
+	background: #b1976b;
 	color: #fff;
 	font-size: 16px;
 	position: relative;
@@ -1900,7 +1900,7 @@ ul.orderlist li:before {
 }
 .faqs h4 .collapsed:hover, .faqs h4 a:hover, .faqs h4 a:active {
 	text-decoration: none;
-	background: #eb9405;
+	background: #b1976b;
 	color: #fff;
 }
 .faqs h4 a:before {
@@ -1909,7 +1909,7 @@ ul.orderlist li:before {
 	font-family: 'FontAwesome';
 	width: 30px;
 	padding: 6px 0;
-	color: #eb9405;
+	color: #b1976b;
 	position: absolute;
 	right: 15px;
 	top: 8px;
@@ -1987,7 +1987,7 @@ ul.orderlist li:before {
 	z-index: 3;
 	width: 0;
 	height: 0;
-	border-left: 24px solid #eb9405;
+	border-left: 24px solid #b1976b;
 	border-top: 15px solid transparent;
 	border-bottom: 15px solid transparent;
 	top: 16px;
@@ -2052,7 +2052,7 @@ ul.orderlist li:before {
     Taglinewrap section              
 -----------------------------------------*/
 .taglinewrap {
-	background: #eb9405;
+	background: #b1976b;
 	text-align: center;
 	padding: 50px 0;
 }
@@ -2131,7 +2131,7 @@ ul.orderlist li:before {
 	color: #fff;
 	font-weight: 600;
 	padding: 7px 15px;
-	background: #eb9405;
+	background: #b1976b;
 	border-radius: 4px;
 }
 .blogGrid .readmore:hover {
@@ -2165,7 +2165,7 @@ ul.orderlist li:before {
 	font-weight: 700;
 }
 .contact-form h4 span {
-	color: #eb9405;
+	color: #b1976b;
 	font-weight: 400;
 }
 .contact-form .form-control {
@@ -2183,14 +2183,14 @@ ul.orderlist li:before {
 	height: 55px;
 }
 .contact-form input:focus, .contact-form textarea:focus {
-	border-color: #eb9405 !important;
+	border-color: #b1976b !important;
 }
 .contact-form textarea {
 	background: #fff;
 	border: 2px solid #f0f0f0 !important;
 }
 .contact-form button#submit {
-	background-color: #eb9405;
+	background-color: #b1976b;
 	border: none;
 	border-radius: 4px;
 	color: #ffffff;
@@ -2211,14 +2211,14 @@ ul.orderlist li:before {
 	text-align:left;
 }
 .contact > span {
-	color: #eb9405;
+	color: #b1976b;
 	float: left;
 	font-size: 30px;
 	line-height: 55px;
 	text-align: center;
 	width: 60px;
 	height:60px;
-	border:1px solid #eb9405;
+	border:1px solid #b1976b;
 	box-shadow:0 0 10px rgba(0,0,0,0.1);
 	background:#fff;
 	border-radius:5px;
@@ -2264,7 +2264,7 @@ ul.orderlist li:before {
 }
 #address .fa {
 	font-size: 42px;
-	color: #eb9405;
+	color: #b1976b;
 	float: left;
 	width: 50px;
 	height: 70px;
@@ -2302,7 +2302,7 @@ ul.orderlist li:before {
 -----------------------------------------*/
 
 footer {
-	background: #eb9405;
+	background: #b1976b;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	text-align: center;
@@ -2321,7 +2321,7 @@ footer {
 	background: #000;
 }
 .socialLinks a:hover {
-	color: #eb9405;
+	color: #b1976b;
 }
 .socialLinks a i {
 	display: block;
@@ -2356,7 +2356,7 @@ footer .footer-copyright p {
 
 /*Page Title*/
 .pageTitle {
-	background: #eb9405 url(../images/title-bg.jpg) no-repeat;
+	background: #b1976b url(../images/title-bg.jpg) no-repeat;
 	background-size: cover;
 	padding: 50px 0;
 }
@@ -2421,7 +2421,7 @@ footer .footer-copyright p {
 	color: #666;
 }
 .error-msg .btn {
-	background: #eb9405;
+	background: #b1976b;
 	color: #fff;
 	margin-top: 30px;
 	border-radius: 0;
@@ -2456,7 +2456,7 @@ footer .footer-copyright p {
 }
 .blogList li:hover {
 	box-shadow: 0 0 10px rgba(0,0,0,0.1);
-	border-color: #eb9405;
+	border-color: #b1976b;
 }
 .postimg {
 	position: relative;
@@ -2471,9 +2471,9 @@ footer .footer-copyright p {
 	padding: 7px 10px 0 10px;
 	text-align: center;
 	line-height: 20px;
-	background: #eb9405;
+	background: #b1976b;
 	letter-spacing: 0.4px;
-	outline: 3px solid #eb9405;
+	outline: 3px solid #b1976b;
 	border: 1px solid #fff;
 	position: absolute;
 	left: 14px;
@@ -2485,7 +2485,7 @@ footer .footer-copyright p {
 }
 .post-header h4 a, .post-header h4 {
 	font-size: 24px;
-	color: #eb9405;
+	color: #b1976b;
 	font-weight: 600;
 }
 .post-header h4 a:hover {
@@ -2495,7 +2495,7 @@ footer .footer-copyright p {
 	margin: 15px 0 20px 0; line-height:24px;
 }
 .postmeta span, .postmeta a {
-	color: #eb9405;
+	color: #b1976b;
 }
 .blogList p, .blogGrid li p {
 	line-height: 24px;
@@ -2600,7 +2600,7 @@ blockquote:after {
 }
 .comments .media h6 {
 	font-weight: 600;
-	color: #eb9405;
+	color: #b1976b;
 	font-size: 16px;
 	text-transform: none;
 }
@@ -2616,7 +2616,7 @@ blockquote:after {
 	right: 0;
 }
 .comments .btn.raply:hover {
-	background: #eb9405;
+	background: #b1976b;
 	color: #fff;
 }
 .comments .media a img {
@@ -2650,7 +2650,7 @@ blockquote:after {
 	height: 150px;
 }
 .commnetsfrm .btn {
-	background: #eb9405;
+	background: #b1976b;
 	color: #fff;
 	font-weight: 700;
 	margin-top: 20px;
@@ -2696,11 +2696,11 @@ blockquote:after {
 	font-family: 'FontAwesome';
 	position: absolute;
 	left: 0px;
-	color: #eb9405;
+	color: #b1976b;
 	font-size: 14px;
 	top:7px;
 }
-.categories li a:hover{color:#eb9405;}
+.categories li a:hover{color:#b1976b;}
 /*Archives*/
 .archive li {
 	line-height: 45px;
@@ -2730,7 +2730,7 @@ blockquote:after {
 	transition: all 0.4s ease-in-out;
 }
 .archive li a:hover span {
-	background: #eb9405;
+	background: #b1976b;
 	color: #fff;
 }
 /*Popular Posts*/
@@ -2762,7 +2762,7 @@ blockquote:after {
 .papu-post .media-heading {
 	display: inline-block;
 	width: 100%;
-	color: #eb9405;
+	color: #b1976b;
 	margin-top: 0px;
 	line-height: 20px;
 }
@@ -2790,8 +2790,8 @@ blockquote:after {
 	text-transform: uppercase;
 }
 .tags a:hover {
-	border: 1px solid #eb9405;
-	background: #eb9405;
+	border: 1px solid #b1976b;
+	background: #b1976b;
 	color: #fff;
 	text-decoration: none;
 }
@@ -2843,7 +2843,7 @@ blockquote:after {
     position: absolute;
     display: block;
     height: 2px;
-    background-color: #eb9405;
+    background-color: #b1976b;
     left: 0px;
     bottom: -10px;
     content: "";
@@ -2858,7 +2858,7 @@ blockquote:after {
     padding-bottom: 5px;
 }
 .footer-lwf ul.footer-contact li {
-    color: #eb9405;
+    color: #b1976b;
 }
 .footer-lwf ul.footer-contact li i.fa {
     padding-right: 4px;
@@ -2902,7 +2902,7 @@ blockquote:after {
 }
 .newsletter .news-btn {
     color: #fff;
-    background-color: #eb9405;
+    background-color: #b1976b;
     width: 50px;
     height: 100%;
     position: absolute;
